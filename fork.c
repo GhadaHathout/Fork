@@ -21,6 +21,7 @@ int main(){
 			printf("Globe from child(PID= %d):globe=%d\n",(int)getpid(), globe);
 			sleep(6);
 		}
+		
 
 }
 return 0;
